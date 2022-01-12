@@ -3,11 +3,11 @@
 ## Introduction
 KuCoin Community Chain (KCC) is a high-performance and decentralized public chain built by fans of KCS and KuCoin.  
 
-Developed based on go-ethereum with the purpose of providing community users with a higher-speed,
+Developed based on EVM compatible with the purpose of providing community users with a higher-speed,
 convenient and low-cost blockchain user experience.
 
 KuCoin Community Chain (KCC) will have the following characteristics:
-- Fully compatible with Ethereum and ERC-20 smart contracts, with extremely low migration costs
+- Fully compatible with EVM and ERC-20 smart contracts, with extremely low migration costs
 - KuCoin Token (KCS) will serve as the only core fuel and native token for KCC and can be used in scenarios such as gas fee payment
 - A block every 3 seconds results in faster transaction confirmation and higher chain performance
 - Proof of Staked Authority (PoSA) consensus algorithm, high efficiency, security and stability
